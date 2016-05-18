@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">November Madness</string>
+    <string name="action_settings">Settings</string>
+
+    //main menu buttons
+    <string name="create_text">Create Bracket</string>
+    <string name="my_text">My Brackets</string>
+    <string name="research_text">Research</string>
+
+    //create_bracket_menu Button Names
+    <string name="SC_text">Southern Conference</string>
+    <string name="NC_text">Northern Conference</string>
+    <string name="C_text">Central Conference</string>
+    <string name="W_text">Western Conference</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+</resources>

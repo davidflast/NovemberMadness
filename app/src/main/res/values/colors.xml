@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //app colors
+    <color name="app_primary">#2979FF</color> //light blue A400
+    <color name="app_secondary">#81D4FA</color> //lightblue 200
+    <color name="app_bar">#1976D2</color>
+
+    //southern conference colors
+    <color name="SC_primary">#FF7043</color> //deep orange 400
+    <color name="SC_secondary">#FFAB91</color> //deep orange 200
+
+    // northern conference colors
+    <color name="NC_primary">#7986CB</color> //indigo 400
+    <color name="NC_secondary">#9FA8DA</color> // indigo 200
+
+    //central conference colors
+    <color name="C_primary">#FFB300</color> //amber 600
+    <color name="C_secondary">#FFD54F</color> //amber 300
+
+    // western conference colros
+    <color name="W_primary">#4CAF50</color>//green 500
+    <color name="W_secondary">#A5D6A7</color>//green 200
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+</resources>
