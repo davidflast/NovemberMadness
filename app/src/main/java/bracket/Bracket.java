@@ -4,7 +4,7 @@ package bracket;
  * Created by davidflast on 5/17/16.
  */
 public class Bracket {
-    public Game root;
+    protected Game root;
     protected int numCol;
     protected int numRow;
 
